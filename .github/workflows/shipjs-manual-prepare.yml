@@ -22,7 +22,7 @@ jobs:
             npm install
           fi
       - run: |
-          git config --global user.email "ikasama0324@gmail.com
+          git config --global user.email "ikasama0324@gmail.com"
           git config --global user.name "masaki-koide"
       - run: npm run release:prepare -- --yes --no-browse
         env:
