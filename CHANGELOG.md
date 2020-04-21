@@ -13,7 +13,7 @@
 
 ### BREAKING CHANGES
 
-* GA
+* GA :tada:
 
 
 
