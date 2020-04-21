@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "config:base",
+    ":pinAllExceptPeerDependencies",
+    "schedule:monthly"
+  ],
+  "packageRules": [
+    {
+      "depTypeList": [
+        "dependencies"
+      ],
+      "groupName": "dependencies"
+    },
+    {
+      "depTypeList": [
+        "devDependencies"
+      ],
+      "groupName": "devDependencies"
+    }
+  ],
+  "reviewers": ["masaki-koide"],
+  "timezone": "Asia/Tokyo"
+}
