@@ -2,6 +2,12 @@
 
 ESLint config for TypeScript and React project.
 
+## Installation
+
+```sh
+yarn add --dev eslint-config-thai-soup
+```
+
 ## Usage
 
 It requires `eslint`, `prettier`, `typescript`.
@@ -12,13 +18,22 @@ It requires `eslint`, `prettier`, `typescript`.
 yarn info eslint-config-thai-soup peerDependencies
 ```
 
-2. Add `thai-soup` to the extends section of your ESLint config.
+2. In your ESLint config, specify `thai-soup` in the extends section and the path of your project's tsconfig.json in the parserOptions section.
 
 ```js
 {
   "extends": ["thai-soup"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "rules": {
     // Additional, per-project rules
   }
 }
 ```
+
+## Tips
+
+I recommend Duncan Leung's article for faster ESlint performance
+
+[Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues/)
