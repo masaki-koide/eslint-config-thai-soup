@@ -14,8 +14,11 @@ module.exports = {
     'import/order': ['error', { 'newlines-between': 'always' }],
     'import/prefer-default-export': 'off',
     'react/button-has-type': 'off',
+    'react/jsx-filename-extension': ['error', { extensions: ['jsx', 'tsx'] }],
     'react/jsx-key': 'error',
     'react/jsx-props-no-spreading': 'off',
+    'react/no-danger': 'off',
+    'react/prop-types': 'off',
   },
   settings: {
     'import/resolver': {
