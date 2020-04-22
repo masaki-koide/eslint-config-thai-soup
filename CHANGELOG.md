@@ -1,3 +1,7 @@
+## [1.0.1](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.0...v1.0.1) (2020-04-22)
+
+Override some rules.
+
 # [1.0.0](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v0.0.0...v1.0.0) (2020-04-21)
 
 
