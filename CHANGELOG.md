@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.1...v1.0.2) (2020-04-22)
+
+
+### Bug Fixes
+
+* remove parserOptions ([e6fcd4d](https://github.com/masaki-koide/eslint-config-thai-soup/commit/e6fcd4d66080ad4e371055540709389d704aade8))
+
+
+
 ## [1.0.1](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.0...v1.0.1) (2020-04-22)
 
 Override some rules.
