@@ -18,11 +18,11 @@ It requires `eslint`, `prettier`, `typescript`.
 yarn info eslint-config-thai-soup peerDependencies
 ```
 
-2. In your ESLint config, specify `thai-soup` in the extends section and the path of your project's tsconfig.json in the parserOptions section.
+2. In your ESLint config, specify `thai-soup` in the extends section and the path of your project's tsconfig.json in the parserOptions section. if you don't need React, you can use `thai-soup/base`.
 
 ```js
 {
-  "extends": ["thai-soup"],
+  "extends": ["thai-soup"], // or thai-soup/base
   "parserOptions": {
     "project": "./tsconfig.json"
   },
