@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "masaki-koide <ikasama0324@gmail.com>",
   "repository": "ssh://git@github.com/masaki-koide/eslint-config-thai-soup.git",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "release:prepare": "shipjs prepare",
