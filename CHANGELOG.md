@@ -1,6 +1,6 @@
 ## [1.0.3](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.2...v1.0.3) (2020-04-23)
 
-
+Update `README.md` and add `react/jsx-sort-props` rule.
 
 ## [1.0.2](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.1...v1.0.2) (2020-04-22)
 
