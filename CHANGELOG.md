@@ -1,6 +1,6 @@
 ## [1.0.4](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.3...v1.0.4) (2020-04-25)
 
-
+Edited package info.
 
 ## [1.0.3](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.2...v1.0.3) (2020-04-23)
 
