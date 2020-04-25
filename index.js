@@ -24,7 +24,6 @@ module.exports = {
         shorthandFirst: true,
       },
     ],
-    'react/no-danger': 'off',
     'react/prop-types': 'off',
   },
   settings: {
