@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/masaki-koide/eslint-config-thai-soup.git"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "release:prepare": "shipjs prepare",
