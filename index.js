@@ -14,8 +14,12 @@ module.exports = {
         jsx: 'never',
         ts: 'never',
         tsx: 'never',
+        // NOTE:prettierで相殺してほしい
+        'react/jsx-closing-tag-location': 'off',
       },
     ],
+    // NOTE:prettierで相殺してほしい
+    'react/jsx-one-expression-per-line': 'off',
     'import/order': ['error', { 'newlines-between': 'always' }],
     'import/prefer-default-export': 'off',
     'react/button-has-type': 'off',
