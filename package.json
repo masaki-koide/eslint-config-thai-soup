@@ -1,5 +1,6 @@
 {
   "name": "eslint-config-thai-soup",
+  "version": "1.0.4",
   "description": "ESLint config for TypeScript and React project.",
   "license": "MIT",
   "author": "masaki-koide <ikasama0324@gmail.com>",
@@ -8,7 +9,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com/masaki-koide/eslint-config-thai-soup.git"
   },
-  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "release:prepare": "shipjs prepare",
@@ -31,11 +31,12 @@
     "typescript": "^3.8.3"
   },
   "devDependencies": {
-    "husky": "4.2.5",
-    "lint-staged": "10.1.6",
-    "prettier": "2.0.4",
-    "prettier-package-json": "2.1.3",
-    "shipjs": "0.18.2"
+    "husky": "4.3.8",
+    "lint-staged": "10.5.4",
+    "prettier": "2.3.1",
+    "prettier-package-json": "2.6.0",
+    "shipjs": "0.23.2",
+    "typescript": "4.3.2"
   },
   "keywords": [
     "eslint",

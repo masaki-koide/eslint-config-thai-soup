@@ -14,17 +14,17 @@ module.exports = {
         jsx: 'never',
         ts: 'never',
         tsx: 'never',
-        // NOTE:prettierで相殺してほしい
-        'react/jsx-closing-tag-location': 'off',
       },
     ],
-    // NOTE:prettierで相殺してほしい
-    'react/jsx-one-expression-per-line': 'off',
     'import/order': ['error', { 'newlines-between': 'always' }],
     'import/prefer-default-export': 'off',
     'react/button-has-type': 'off',
+    // NOTE:prettierで相殺してほしい
+    'react/jsx-closing-tag-location': 'off',
     'react/jsx-filename-extension': ['error', { extensions: ['jsx', 'tsx'] }],
     'react/jsx-key': 'error',
+    // NOTE:prettierで相殺してほしい
+    'react/jsx-one-expression-per-line': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-sort-props': [
       'error',
