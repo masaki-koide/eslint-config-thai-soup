@@ -1,5 +1,10 @@
 module.exports = {
-  extends: ['airbnb', 'airbnb/hooks', './base.js', 'prettier/react'],
+  extends: [
+    'airbnb',
+    'airbnb/hooks',
+    './base.js',
+    'plugin:prettier/recommended',
+  ],
   rules: {
     'import/extensions': [
       'error',
