@@ -9,12 +9,17 @@ jobs:
       (github.event.comment.author_association == 'member' || github.event.comment.author_association == 'owner') &&
       startsWith(github.event.comment.body, '@shipjs prepare')
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [14]
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
           ref: master
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node }}
       - run: |
           if [ -f "yarn.lock" ]; then
             yarn install
