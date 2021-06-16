@@ -38,7 +38,7 @@ jobs:
     needs: manual_prepare
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github@master
+      - uses: actions/github@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -49,7 +49,7 @@ jobs:
     needs: manual_prepare
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github@master
+      - uses: actions/github@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
