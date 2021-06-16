@@ -1,3 +1,14 @@
+## [1.0.5](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.4...v1.0.5) (2021-06-16)
+
+
+### Bug Fixes
+
+* update ci node version ([57b4b15](https://github.com/masaki-koide/eslint-config-thai-soup/commit/57b4b15f3fb4167b2290dabee00d5d65e6592cbe))
+* **deps:** update dependencies ([#11](https://github.com/masaki-koide/eslint-config-thai-soup/issues/11)) ([4f4dd65](https://github.com/masaki-koide/eslint-config-thai-soup/commit/4f4dd65308cc942448b7277fc60beea21137551a))
+* **deps:** update dependencies (major) ([#13](https://github.com/masaki-koide/eslint-config-thai-soup/issues/13)) ([3bfce6b](https://github.com/masaki-koide/eslint-config-thai-soup/commit/3bfce6b242154bd55187ba7464e4378dfe36d611))
+
+
+
 ## [1.0.4](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.3...v1.0.4) (2020-04-25)
 
 Edited package info.
