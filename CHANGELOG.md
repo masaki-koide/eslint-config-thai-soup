@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.5...v1.0.6) (2021-06-16)
+
+
+### Bug Fixes
+
+* some typo ([b572fb7](https://github.com/masaki-koide/eslint-config-thai-soup/commit/b572fb7a2b4b189f1d3cf93a741e06f430c37ae6))
+
+
+
 ## [1.0.5](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.4...v1.0.5) (2021-06-16)
 
 
