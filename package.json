@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-thai-soup",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "ESLint config for TypeScript and React project.",
   "license": "MIT",
   "author": "masaki-koide <ikasama0324@gmail.com>",

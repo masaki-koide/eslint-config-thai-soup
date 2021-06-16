@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.6...v1.1.0) (2021-06-16)
+
+
+### Features
+
+* update some rules of ts ([5a6bb4b](https://github.com/masaki-koide/eslint-config-thai-soup/commit/5a6bb4bfaa2234e68001ff4be4063f895b1da161))
+
+
+
 ## [1.0.6](https://github.com/masaki-koide/eslint-config-thai-soup/compare/v1.0.5...v1.0.6) (2021-06-16)
 
 
