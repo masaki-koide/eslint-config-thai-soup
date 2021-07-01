@@ -2605,10 +2605,10 @@ prettier-package-json@2.6.0:
     sort-object-keys "^1.1.3"
     sort-order "^1.0.1"
 
-prettier@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.1.tgz#76903c3f8c4449bc9ac597acefa24dc5ad4cbea6"
-  integrity sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA==
+prettier@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.2.tgz#ef280a05ec253712e486233db5c6f23441e7342d"
+  integrity sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ==
 
 prettier@^2.0.0:
   version "2.0.4"
@@ -2917,10 +2917,10 @@ shelljs@0.8.4:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shipjs-lib@0.23.2:
-  version "0.23.2"
-  resolved "https://registry.yarnpkg.com/shipjs-lib/-/shipjs-lib-0.23.2.tgz#3f02c97455d2699a463488cafa6a61a924da8e29"
-  integrity sha512-IfPFv8AWErc+K4lZPKe/CeWGbKAMisiVEgkVAci5iqGDiUIP5wNo1iCtHBgwY9ezKeH9TJasZocHpqwlCQJe1w==
+shipjs-lib@0.23.3:
+  version "0.23.3"
+  resolved "https://registry.yarnpkg.com/shipjs-lib/-/shipjs-lib-0.23.3.tgz#25cc73544f99480fb66f10428d252b8292d355c7"
+  integrity sha512-ZyKAKI/d6fBw25XTK1zxRcJyPlQECvzNZar/N9iS7CZF6qs9yyUnxeHlB4FuF4rIvdPSdz0ePjQGhkvYnwFeEQ==
   dependencies:
     deepmerge "^4.2.2"
     dotenv "^8.1.0"
@@ -2928,10 +2928,10 @@ shipjs-lib@0.23.2:
     semver "6.3.0"
     shelljs "0.8.4"
 
-shipjs@0.23.2:
-  version "0.23.2"
-  resolved "https://registry.yarnpkg.com/shipjs/-/shipjs-0.23.2.tgz#4f2fd4b0727c77533d9b0ab42eb0c7a0bf45a88f"
-  integrity sha512-am/kLj0ZVQK97Gss/J4dCbVwLsZK/aDUQTlgt0ZgqB/qqPWGDxDVdjFiTEydSDHTWsgLYD6IQ5NlFWQkAmziUQ==
+shipjs@0.23.3:
+  version "0.23.3"
+  resolved "https://registry.yarnpkg.com/shipjs/-/shipjs-0.23.3.tgz#f302852ee8deebd21b497eb6da52fed19df12f3d"
+  integrity sha512-3DZMQ5VVVj2d3bkeF5Tk0U2j/IpZUm/Evk/coRvvRA4cu8bcm9eXh6zcSpJVwMUWloL7SmxK/Y/GbCMb60+qDw==
   dependencies:
     "@babel/runtime" "^7.6.3"
     "@octokit/rest" "^17.0.0"
@@ -2955,7 +2955,7 @@ shipjs@0.23.2:
     prettier "^2.0.0"
     serialize-javascript "^3.0.0"
     shell-quote "^1.7.2"
-    shipjs-lib "0.23.2"
+    shipjs-lib "0.23.3"
     temp-write "4.0.0"
     tempfile "^3.0.0"
 
@@ -3339,10 +3339,10 @@ type-fest@^0.21.3:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.21.3.tgz#d260a24b0198436e133fa26a524a6d65fa3b2e37"
   integrity sha512-t0rzBq87m3fVcduHDUFhKmyyX+9eo6WQjZvf51Ea/M0Q7+T374Jp1aUiyUl0GKxp8M/OETVHSDvmkyPgvX+X2w==
 
-typescript@4.3.2:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.2.tgz#399ab18aac45802d6f2498de5054fcbbe716a805"
-  integrity sha512-zZ4hShnmnoVnAHpVHWpTcxdv7dWP60S2FsydQLV8V5PbS3FifjWFFRiHSWpDJahly88PRyV5teTSLoq4eG7mKw==
+typescript@4.3.5:
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.5.tgz#4d1c37cc16e893973c45a06886b7113234f119f4"
+  integrity sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==
 
 uglify-js@^3.1.4:
   version "3.9.1"
